@@ -1,0 +1,14 @@
+REVERSING A STRING;
+
+
+m_str=str(input('Enter something to reverse : '))
+rev=''
+for i in m_str:
+    rev=i+rev
+print(rev)
+
+
+OUT PUT:
+
+Enter something to reverse : HELLO WORLD
+DLROW OLLEH
