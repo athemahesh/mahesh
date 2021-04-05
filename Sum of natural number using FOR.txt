@@ -1,4 +1,4 @@
-SUM OF NATURAL NUMBER USING FOR
+SUM OF NATURAL NUMBER USING FOR Loop in Python
 
 x=int(input('Enter a number : '))
 sum=1
