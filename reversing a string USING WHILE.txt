@@ -1,0 +1,13 @@
+REVERSE A STRING USING "WHILE"
+
+
+my_str=str(input('enter something to reverse:'))
+rev='' ##EMPTY STRING##
+length=len(my_str)-1
+while(length>=0):
+    rev=rev+my_str[length]
+    length=length-1
+    
+result=rev
+    
+print(result)
